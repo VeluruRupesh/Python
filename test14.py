@@ -1,0 +1,5 @@
+print("python\"easy\"language")
+print('python\'python\'language')
+print("\\")
+print("\n\n\n")
+print("Hello")
